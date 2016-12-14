@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Laptop</string>
+    <string name="marca">Marca</string>
+    <string name="ram">RAM</string>
+    <string name="disco_duro">Disco Duro</string>
+    <string name="procesador">Procesador</string>
+    <string name="insertar">Insertar</string>
+</resources>
